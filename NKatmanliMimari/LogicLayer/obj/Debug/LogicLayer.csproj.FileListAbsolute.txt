@@ -1,0 +1,11 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\LogicLayer\obj\Debug\LogicLayer.pdb

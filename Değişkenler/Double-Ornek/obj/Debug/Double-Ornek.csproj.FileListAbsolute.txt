@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\Double-Ornek\bin\Debug\Double-Ornek.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\Double-Ornek\bin\Debug\Double-Ornek.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\Double-Ornek\bin\Debug\Double-Ornek.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\Double-Ornek\obj\Debug\Double_Ornek.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\Double-Ornek\obj\Debug\Double_Ornek.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\Double-Ornek\obj\Debug\Double-Ornek.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\Double-Ornek\obj\Debug\Double-Ornek.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\Double-Ornek\obj\Debug\Double-Ornek.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\Double-Ornek\obj\Debug\Double-Ornek.pdb

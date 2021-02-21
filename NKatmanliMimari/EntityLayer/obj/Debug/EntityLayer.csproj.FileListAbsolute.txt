@@ -1,0 +1,6 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.pdb

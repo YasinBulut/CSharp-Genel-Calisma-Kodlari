@@ -1,0 +1,7 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metot-Yapici\bin\Debug\Metot-Yapici.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metot-Yapici\bin\Debug\Metot-Yapici.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metot-Yapici\bin\Debug\Metot-Yapici.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metot-Yapici\obj\Debug\Metot-Yapici.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metot-Yapici\obj\Debug\Metot-Yapici.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metot-Yapici\obj\Debug\Metot-Yapici.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metot-Yapici\obj\Debug\Metot-Yapici.pdb

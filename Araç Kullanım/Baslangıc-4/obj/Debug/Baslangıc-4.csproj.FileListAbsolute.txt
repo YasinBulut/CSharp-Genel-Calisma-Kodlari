@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Baslangıc-4\bin\Debug\Baslangıc-4.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Baslangıc-4\bin\Debug\Baslangıc-4.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Baslangıc-4\bin\Debug\Baslangıc-4.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Baslangıc-4\obj\Debug\Baslangıc_4.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Baslangıc-4\obj\Debug\Baslangıc_4.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Baslangıc-4\obj\Debug\Baslangıc-4.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Baslangıc-4\obj\Debug\Baslangıc-4.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Baslangıc-4\obj\Debug\Baslangıc-4.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Baslangıc-4\obj\Debug\Baslangıc-4.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-3\bin\Debug\Metotlar-3.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-3\bin\Debug\Metotlar-3.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-3\bin\Debug\Metotlar-3.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-3\obj\Debug\Metotlar_3.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-3\obj\Debug\Metotlar_3.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-3\obj\Debug\Metotlar-3.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-3\obj\Debug\Metotlar-3.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-3\obj\Debug\Metotlar-3.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-3\obj\Debug\Metotlar-3.pdb

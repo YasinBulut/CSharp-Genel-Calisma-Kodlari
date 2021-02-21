@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\bin\Debug\Try_Catch.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\bin\Debug\Try_Catch.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\bin\Debug\Try_Catch.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\obj\Debug\Try_Catch.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\obj\Debug\Try_Catch.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\obj\Debug\Try_Catch.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\obj\Debug\Try_Catch.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\obj\Debug\Try_Catch.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\obj\Debug\Try_Catch.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Try_Catch\obj\Debug\Try_Catch.pdb

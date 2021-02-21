@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger\bin\Debug\İnteger.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger\bin\Debug\İnteger.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger\bin\Debug\İnteger.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger\obj\Debug\İnteger.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger\obj\Debug\İnteger.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger\obj\Debug\İnteger.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger\obj\Debug\İnteger.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger\obj\Debug\İnteger.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger\obj\Debug\İnteger.pdb

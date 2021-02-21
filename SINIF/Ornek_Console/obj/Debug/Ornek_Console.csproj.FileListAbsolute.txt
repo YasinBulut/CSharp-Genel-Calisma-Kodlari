@@ -1,0 +1,7 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Ornek_Console\bin\Debug\Ornek_Console.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Ornek_Console\bin\Debug\Ornek_Console.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Ornek_Console\bin\Debug\Ornek_Console.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Ornek_Console\obj\Debug\Ornek_Console.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Ornek_Console\obj\Debug\Ornek_Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Ornek_Console\obj\Debug\Ornek_Console.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Ornek_Console\obj\Debug\Ornek_Console.pdb

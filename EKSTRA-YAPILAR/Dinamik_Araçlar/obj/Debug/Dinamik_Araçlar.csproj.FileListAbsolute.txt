@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\bin\Debug\Dinamik_Araçlar.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\bin\Debug\Dinamik_Araçlar.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\bin\Debug\Dinamik_Araçlar.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Dinamik_Araçlar\obj\Debug\Dinamik_Araçlar.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\bin\Debug\Metotlar-2.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\bin\Debug\Metotlar-2.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\bin\Debug\Metotlar-2.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\obj\Debug\Metotlar-2.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\obj\Debug\Metotlar_2.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\obj\Debug\Metotlar_2.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\obj\Debug\Metotlar-2.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\obj\Debug\Metotlar-2.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\obj\Debug\Metotlar-2.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Metotlar\Metotlar-2\obj\Debug\Metotlar-2.pdb

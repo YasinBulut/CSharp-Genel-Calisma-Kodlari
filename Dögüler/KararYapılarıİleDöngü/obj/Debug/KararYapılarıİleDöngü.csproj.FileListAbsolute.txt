@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\KararYapılarıİleDöngü\bin\Debug\KararYapılarıİleDöngü.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\KararYapılarıİleDöngü\bin\Debug\KararYapılarıİleDöngü.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\KararYapılarıİleDöngü\bin\Debug\KararYapılarıİleDöngü.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\KararYapılarıİleDöngü\obj\Debug\KararYapılarıİleDöngü.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\KararYapılarıİleDöngü\obj\Debug\KararYapılarıİleDöngü.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\KararYapılarıİleDöngü\obj\Debug\KararYapılarıİleDöngü.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\KararYapılarıİleDöngü\obj\Debug\KararYapılarıİleDöngü.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\KararYapılarıİleDöngü\obj\Debug\KararYapılarıİleDöngü.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\KararYapılarıİleDöngü\obj\Debug\KararYapılarıİleDöngü.pdb

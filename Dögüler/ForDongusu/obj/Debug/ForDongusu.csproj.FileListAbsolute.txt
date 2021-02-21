@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\bin\Debug\ForDongusu.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\bin\Debug\ForDongusu.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\bin\Debug\ForDongusu.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\obj\Debug\ForDongusu.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\obj\Debug\ForDongusu.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\obj\Debug\ForDongusu.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\obj\Debug\ForDongusu.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\obj\Debug\ForDongusu.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\obj\Debug\ForDongusu.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\ForDongusu\obj\Debug\ForDongusu.pdb

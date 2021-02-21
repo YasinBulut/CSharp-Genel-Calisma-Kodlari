@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\obj\Debug\Operatorler.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\obj\Debug\Operatorler.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\obj\Debug\Operatorler.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\obj\Debug\Operatorler.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Operatorler\obj\Debug\Operatorler.pdb

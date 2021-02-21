@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger-ornek\bin\Debug\İnteger-ornek.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger-ornek\bin\Debug\İnteger-ornek.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger-ornek\bin\Debug\İnteger-ornek.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger-ornek\obj\Debug\İnteger_ornek.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger-ornek\obj\Debug\İnteger_ornek.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger-ornek\obj\Debug\İnteger-ornek.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger-ornek\obj\Debug\İnteger-ornek.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger-ornek\obj\Debug\İnteger-ornek.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Değişkenler\İnteger-ornek\obj\Debug\İnteger-ornek.pdb

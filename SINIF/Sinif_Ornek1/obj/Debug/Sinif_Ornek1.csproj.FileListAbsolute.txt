@@ -1,0 +1,11 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\bin\Debug\Sinif_Ornek1.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\bin\Debug\Sinif_Ornek1.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\bin\Debug\Sinif_Ornek1.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\obj\Debug\Sinif_Ornek1.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\obj\Debug\Sinif_Ornek1.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\obj\Debug\Sinif_Ornek1.Form2.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\obj\Debug\Sinif_Ornek1.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\obj\Debug\Sinif_Ornek1.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\obj\Debug\Sinif_Ornek1.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\obj\Debug\Sinif_Ornek1.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek1\obj\Debug\Sinif_Ornek1.pdb

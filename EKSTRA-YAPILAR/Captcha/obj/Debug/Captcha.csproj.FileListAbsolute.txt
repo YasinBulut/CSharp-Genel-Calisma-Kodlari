@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\obj\Debug\Captcha.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\obj\Debug\Captcha.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\obj\Debug\Captcha.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\obj\Debug\Captcha.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\obj\Debug\Captcha.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\bin\Debug\Captcha.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\bin\Debug\Captcha.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\bin\Debug\Captcha.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\obj\Debug\Captcha.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Captcha\obj\Debug\Captcha.pdb

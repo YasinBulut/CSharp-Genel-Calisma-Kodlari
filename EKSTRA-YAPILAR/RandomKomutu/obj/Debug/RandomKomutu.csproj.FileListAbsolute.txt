@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\bin\Debug\RandomKomutu.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\bin\Debug\RandomKomutu.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\bin\Debug\RandomKomutu.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\obj\Debug\RandomKomutu.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\obj\Debug\RandomKomutu.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\obj\Debug\RandomKomutu.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\obj\Debug\RandomKomutu.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\obj\Debug\RandomKomutu.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\obj\Debug\RandomKomutu.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\RandomKomutu\obj\Debug\RandomKomutu.pdb

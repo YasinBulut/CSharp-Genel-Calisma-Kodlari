@@ -1,0 +1,11 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\bin\Debug\Formlar_Arası_Geçiş.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\bin\Debug\Formlar_Arası_Geçiş.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\bin\Debug\Formlar_Arası_Geçiş.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.Form2.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_Geçiş\obj\Debug\Formlar_Arası_Geçiş.pdb

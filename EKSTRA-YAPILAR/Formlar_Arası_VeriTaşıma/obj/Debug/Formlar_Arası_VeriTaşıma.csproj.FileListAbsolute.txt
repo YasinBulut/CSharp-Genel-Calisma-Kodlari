@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\bin\Debug\Formlar_Arası_VeriTaşıma.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\bin\Debug\Formlar_Arası_VeriTaşıma.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\bin\Debug\Formlar_Arası_VeriTaşıma.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\obj\Debug\Formlar_Arası_VeriTaşıma.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\obj\Debug\Formlar_Arası_VeriTaşıma.Form2.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\obj\Debug\Formlar_Arası_VeriTaşıma.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\obj\Debug\Formlar_Arası_VeriTaşıma.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\obj\Debug\Formlar_Arası_VeriTaşıma.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\obj\Debug\Formlar_Arası_VeriTaşıma.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\EKSTRA-YAPILAR\Formlar_Arası_VeriTaşıma\obj\Debug\Formlar_Arası_VeriTaşıma.pdb

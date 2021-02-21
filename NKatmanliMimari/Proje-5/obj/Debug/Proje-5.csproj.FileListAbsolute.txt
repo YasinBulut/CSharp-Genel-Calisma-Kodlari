@@ -1,0 +1,17 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\bin\Debug\Proje-5.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\bin\Debug\Proje-5.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\bin\Debug\Proje-5.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\bin\Debug\DataAccessLayer.dll
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\bin\Debug\EntityLayer.dll
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\bin\Debug\LogicLayer.dll
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\bin\Debug\DataAccessLayer.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\bin\Debug\EntityLayer.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\bin\Debug\LogicLayer.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\obj\Debug\Proje-5.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\obj\Debug\Proje_5.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\obj\Debug\Proje_5.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\obj\Debug\Proje-5.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\obj\Debug\Proje-5.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\obj\Debug\Proje-5.csproj.CopyComplete
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\obj\Debug\Proje-5.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\NKatmanliMimari\Proje-5\obj\Debug\Proje-5.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\DijitalSaati\bin\Debug\DijitalSaati.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\DijitalSaati\bin\Debug\DijitalSaati.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\DijitalSaati\bin\Debug\DijitalSaati.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\DijitalSaati\obj\Debug\DijitalSaati.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\DijitalSaati\obj\Debug\DijitalSaati.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\DijitalSaati\obj\Debug\DijitalSaati.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\DijitalSaati\obj\Debug\DijitalSaati.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\DijitalSaati\obj\Debug\DijitalSaati.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\DijitalSaati\obj\Debug\DijitalSaati.pdb

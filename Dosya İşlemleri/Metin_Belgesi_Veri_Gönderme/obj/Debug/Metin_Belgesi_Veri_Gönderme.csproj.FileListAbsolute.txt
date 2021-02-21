@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\bin\Debug\Metin_Belgesi_Veri_Gönderme.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\bin\Debug\Metin_Belgesi_Veri_Gönderme.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\bin\Debug\Metin_Belgesi_Veri_Gönderme.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\obj\Debug\Metin_Belgesi_Veri_Gönderme.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\obj\Debug\Metin_Belgesi_Veri_Gönderme.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\obj\Debug\Metin_Belgesi_Veri_Gönderme.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\obj\Debug\Metin_Belgesi_Veri_Gönderme.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\obj\Debug\Metin_Belgesi_Veri_Gönderme.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\obj\Debug\Metin_Belgesi_Veri_Gönderme.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dosya İşlemleri\Metin_Belgesi_Veri_Gönderme\obj\Debug\Metin_Belgesi_Veri_Gönderme.pdb

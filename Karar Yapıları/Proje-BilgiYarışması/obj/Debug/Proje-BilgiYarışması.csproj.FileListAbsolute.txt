@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\bin\Debug\Proje-BilgiYarışması.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\bin\Debug\Proje-BilgiYarışması.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\bin\Debug\Proje-BilgiYarışması.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\obj\Debug\Proje-BilgiYarışması.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\obj\Debug\Proje_BilgiYarışması.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\obj\Debug\Proje_BilgiYarışması.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\obj\Debug\Proje-BilgiYarışması.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\obj\Debug\Proje-BilgiYarışması.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\obj\Debug\Proje-BilgiYarışması.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Proje-BilgiYarışması\obj\Debug\Proje-BilgiYarışması.pdb

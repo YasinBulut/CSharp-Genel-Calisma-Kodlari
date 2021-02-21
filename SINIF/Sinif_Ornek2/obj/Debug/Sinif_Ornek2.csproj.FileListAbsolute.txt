@@ -1,0 +1,6 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek2\bin\Debug\Sinif_Ornek2.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek2\bin\Debug\Sinif_Ornek2.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek2\bin\Debug\Sinif_Ornek2.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek2\obj\Debug\Sinif_Ornek2.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek2\obj\Debug\Sinif_Ornek2.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\SINIF\Sinif_Ornek2\obj\Debug\Sinif_Ornek2.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\DİZİLER\Dizi-2\bin\Debug\Dizi-2.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\DİZİLER\Dizi-2\bin\Debug\Dizi-2.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\DİZİLER\Dizi-2\bin\Debug\Dizi-2.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\DİZİLER\Dizi-2\obj\Debug\Dizi_2.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\DİZİLER\Dizi-2\obj\Debug\Dizi_2.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\DİZİLER\Dizi-2\obj\Debug\Dizi-2.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\DİZİLER\Dizi-2\obj\Debug\Dizi-2.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\DİZİLER\Dizi-2\obj\Debug\Dizi-2.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\DİZİLER\Dizi-2\obj\Debug\Dizi-2.pdb

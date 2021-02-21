@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\bin\Debug\Chart_Grafik_Kullanımı.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\bin\Debug\Chart_Grafik_Kullanımı.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\bin\Debug\Chart_Grafik_Kullanımı.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\obj\Debug\Chart_Grafik_Kullanımı.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\obj\Debug\Chart_Grafik_Kullanımı.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\obj\Debug\Chart_Grafik_Kullanımı.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\obj\Debug\Chart_Grafik_Kullanımı.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\obj\Debug\Chart_Grafik_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\obj\Debug\Chart_Grafik_Kullanımı.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Chart_Grafik_Kullanımı\obj\Debug\Chart_Grafik_Kullanımı.pdb

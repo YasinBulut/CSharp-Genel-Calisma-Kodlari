@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\bin\Debug\Switch-Case.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\bin\Debug\Switch-Case.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\bin\Debug\Switch-Case.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\obj\Debug\Switch-Case.csprojAssemblyReference.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\obj\Debug\Switch_Case.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\obj\Debug\Switch_Case.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\obj\Debug\Switch-Case.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\obj\Debug\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\obj\Debug\Switch-Case.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Karar Yapıları\Switch-Case\obj\Debug\Switch-Case.pdb

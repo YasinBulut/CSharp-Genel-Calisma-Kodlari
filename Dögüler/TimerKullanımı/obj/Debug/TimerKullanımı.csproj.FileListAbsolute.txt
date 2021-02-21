@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\TimerKullanımı\bin\Debug\TimerKullanımı.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\TimerKullanımı\bin\Debug\TimerKullanımı.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\TimerKullanımı\bin\Debug\TimerKullanımı.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\TimerKullanımı\obj\Debug\TimerKullanımı.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\TimerKullanımı\obj\Debug\TimerKullanımı.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\TimerKullanımı\obj\Debug\TimerKullanımı.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\TimerKullanımı\obj\Debug\TimerKullanımı.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\TimerKullanımı\obj\Debug\TimerKullanımı.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\TimerKullanımı\obj\Debug\TimerKullanımı.pdb

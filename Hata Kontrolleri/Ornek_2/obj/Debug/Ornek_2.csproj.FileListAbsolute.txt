@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Ornek_2\bin\Debug\Ornek_2.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Ornek_2\bin\Debug\Ornek_2.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Ornek_2\bin\Debug\Ornek_2.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Ornek_2\obj\Debug\Ornek_2.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Ornek_2\obj\Debug\Ornek_2.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Ornek_2\obj\Debug\Ornek_2.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Ornek_2\obj\Debug\Ornek_2.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Ornek_2\obj\Debug\Ornek_2.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Hata Kontrolleri\Ornek_2\obj\Debug\Ornek_2.pdb

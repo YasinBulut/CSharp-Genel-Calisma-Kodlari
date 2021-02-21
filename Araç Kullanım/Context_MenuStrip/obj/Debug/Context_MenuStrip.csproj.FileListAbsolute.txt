@@ -1,0 +1,10 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\bin\Debug\Context_MenuStrip.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\bin\Debug\Context_MenuStrip.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\bin\Debug\Context_MenuStrip.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\obj\Debug\Context_MenuStrip.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\obj\Debug\Context_MenuStrip.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\obj\Debug\Context_MenuStrip.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\obj\Debug\Context_MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\obj\Debug\Context_MenuStrip.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\obj\Debug\Context_MenuStrip.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Araç Kullanım\Context_MenuStrip\obj\Debug\Context_MenuStrip.csprojAssemblyReference.cache

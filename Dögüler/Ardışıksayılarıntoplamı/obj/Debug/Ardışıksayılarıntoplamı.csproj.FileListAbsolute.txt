@@ -1,0 +1,9 @@
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\Ardışıksayılarıntoplamı\bin\Debug\Ardışıksayılarıntoplamı.exe.config
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\Ardışıksayılarıntoplamı\bin\Debug\Ardışıksayılarıntoplamı.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\Ardışıksayılarıntoplamı\bin\Debug\Ardışıksayılarıntoplamı.pdb
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\Ardışıksayılarıntoplamı\obj\Debug\Ardışıksayılarıntoplamı.Form1.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\Ardışıksayılarıntoplamı\obj\Debug\Ardışıksayılarıntoplamı.Properties.Resources.resources
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\Ardışıksayılarıntoplamı\obj\Debug\Ardışıksayılarıntoplamı.csproj.GenerateResource.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\Ardışıksayılarıntoplamı\obj\Debug\Ardışıksayılarıntoplamı.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\Ardışıksayılarıntoplamı\obj\Debug\Ardışıksayılarıntoplamı.exe
+C:\Users\user\Source\UDEMY C# -Murat Yücedağ\A-Z ye C# Eğitimi\Dögüler\Ardışıksayılarıntoplamı\obj\Debug\Ardışıksayılarıntoplamı.pdb
